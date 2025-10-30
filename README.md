@@ -1,7 +1,5 @@
 # 🚀 Simulador de Gerenciamento de Memória (FIFO)
 
-A página "vítima" do FIFO sendo escolhida e tendo que sair da memória física:
-
 ![GIF de HSimpsons](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZkamxrdmh0ZHAxd20zZjkzNWVwcnExMXoxZXFmdnR4OTV6dzV0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11gC4odpiRKuha/giphy.gif)
 
 Este projeto é um simulador gráfico interativo para visualização do gerenciamento de memória virtual paginada, desenvolvido para a disciplina de Sistemas Operacionais da Universidade Federal do Pampa (UNIPAMPA).
