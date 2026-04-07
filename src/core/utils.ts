@@ -9,5 +9,6 @@ export function getPageTableDisplay(pageTable: PageTableEntry[]): any[] {
         Moldura: p.frameNumber !== null ? `M${p.frameNumber}` : 'N/A',
         Presença: p.isPresent ? 'Sim' : 'Não',
         'Tempo Carga (FIFO)': p.loadTime,
+        'Tempo Último Acesso (LRU)': true,
     }));
 }

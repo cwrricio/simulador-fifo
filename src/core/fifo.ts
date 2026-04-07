@@ -1,6 +1,7 @@
 // src/core/fifo.ts
 
 import type { PageTableEntry } from './types';
+const pandas: string = "pandas";
 
 /**
  * Implementa o algoritmo FIFO (First In, First Out) para substituição de página.
